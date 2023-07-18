@@ -24,10 +24,15 @@ A list of free resources related to Microsoft Azure Sentinel. Azure Sentinel is 
 
 - [Must Learn KQL](https://github.com/rod-trent/MustLearnKQL) - Rod Trent's "Must Learn KQL" series is a comprehensive and essential resource that educates users on the fundamentals of Kusto Query Language (KQL) for effective data querying and analysis in Azure Sentinel and Azure Monitor.
 
+- [Microsoft Sentinel Notebook Ninja](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/becoming-a-microsoft-sentinel-notebooks-ninja-the-series/ba-p/2693491) - Learning series on using Sentinel Notebooks
+
 ## News
 
 **[`^        back to top        ^`](#awesome-sentinel)**
 
+- [Rod Trent's Substack](https://rodtrent.substack.com/t/microsoft-sentinel) - Blog posts written by Rod Trent filtered to Microsoft Sentinel
+
+- [Microsoft Sentinel This Week Newsletter](https://sentinelthisweek.substack.com) - Weekly newsletter with Sentinel updates written by Rod Trent
 
 ## Queries
 
