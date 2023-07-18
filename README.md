@@ -60,3 +60,6 @@ A list of free resources related to Microsoft Azure Sentinel. Azure Sentinel is 
 
 **[`^        back to top        ^`](#awesome-sentinel)**
 
+- [AZSentinel](https://github.com/wortell/AZSentinel) - Powershell module for interacting with Sentinel
+
+- [Sentinel All-In-One](https://github.com/Azure/Azure-Sentinel/tree/master/Tools/Sentinel-All-In-One) - A one-click deployment of Sentinel
