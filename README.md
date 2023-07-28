@@ -46,6 +46,8 @@ A list of free resources related to Microsoft Azure Sentinel. Azure Sentinel is 
 
 - [rod-trent/OpenAISecurity](https://github.com/rod-trent/OpenAISecurity/tree/main/Security/Sentinel/KQL) - Queries related to OpenAI/ChatGPT
 
+- [Bert-JanP/Hunting-Queries-Detection-Rules](https://github.com/Bert-JanP/Hunting-Queries-Detection-Rules) - KQL queries covering detections across all Microsoft Defender security products
+
 ## Workbooks
 
 **[`^        back to top        ^`](#awesome-sentinel)**
@@ -53,6 +55,8 @@ A list of free resources related to Microsoft Azure Sentinel. Azure Sentinel is 
 - [rod-trent/SentinelWorkbooks](https://github.com/rod-trent/SentinelWorkbooks) - A collection of Sentinel workbooks
 
 ## Playbooks
+
+**[`^        back to top        ^`](#awesome-sentinel)**
 
 - [rod-trent/SentinelPlaybooks](https://github.com/rod-trent/SentinelPlaybooks) - A collection of Sentinel playbooks
 
