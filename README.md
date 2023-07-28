@@ -38,6 +38,8 @@ A list of free resources related to Microsoft Azure Sentinel. Azure Sentinel is 
 
 - [Microsoft Sentinel This Week Newsletter](https://sentinelthisweek.substack.com) - Weekly newsletter with Sentinel updates written by Rod Trent
 
+- [Microsoft Security Insights YouTube Channel](https://www.youtube.com/@microsoftsecurityinsights) - Weekly video podcast covering the latest in Microsoft security 
+
 ## Queries
 
 **[`^        back to top        ^`](#awesome-sentinel)**
