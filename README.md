@@ -19,8 +19,6 @@ Azure Sentinel is a cloud-native security information and event management (SIEM
 
 ## Learning
 
-**[`^        back to top        ^`](#awesome-sentinel)**
-
 - [Microsoft Sentinel skill-up training](https://learn.microsoft.com/en-us/azure/sentinel/skill-up-resources) - Official Microsoft Learn documentation covering the full range of Sentinel features and capabilities, based on the [Microsoft Sentinel Ninja Training](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/become-a-microsoft-sentinel-ninja-the-complete-level-400/ba-p/1246310).
 
 - [Must Learn KQL](https://github.com/rod-trent/MustLearnKQL) - Rod Trent's *Must Learn KQL* series is a comprehensive and essential resource that educates users on the fundamentals of Kusto Query Language (KQL) for effective data querying and analysis in Azure Sentinel and Azure Monitor.
@@ -31,8 +29,6 @@ Azure Sentinel is a cloud-native security information and event management (SIEM
 
 ## News
 
-**[`^        back to top        ^`](#awesome-sentinel)**
-
 - [Rod Trent's Substack](https://rodtrent.substack.com/t/microsoft-sentinel) - Blog posts written by Rod Trent filtered to Microsoft Sentinel.
 
 - [Microsoft Sentinel This Week Newsletter](https://sentinelthisweek.substack.com) - Weekly newsletter with Sentinel updates written by Rod Trent.
@@ -40,8 +36,6 @@ Azure Sentinel is a cloud-native security information and event management (SIEM
 - [Microsoft Security Insights YouTube Channel](https://www.youtube.com/@microsoftsecurityinsights) - Weekly video podcast covering the latest in Microsoft security.
 
 ## Queries
-
-**[`^        back to top        ^`](#awesome-sentinel)**
 
 - [rod-trent/SentinelKQL](https://github.com/rod-trent/SentinelKQL) - A collection of KQL queries.
 
@@ -51,27 +45,19 @@ Azure Sentinel is a cloud-native security information and event management (SIEM
 
 ## Workbooks
 
-**[`^        back to top        ^`](#awesome-sentinel)**
-
 - [rod-trent/SentinelWorkbooks](https://github.com/rod-trent/SentinelWorkbooks) - A collection of Sentinel workbooks.
 
 ## Playbooks
-
-**[`^        back to top        ^`](#awesome-sentinel)**
 
 - [rod-trent/SentinelPlaybooks](https://github.com/rod-trent/SentinelPlaybooks) - A collection of Sentinel playbooks.
   
 
 ## Miscellaneous
 
-**[`^        back to top        ^`](#awesome-sentinel)**
-
 - [Microsoft First Party App Names](https://github.com/merill/microsoft-info) - A JSON/CSV collection of mappings of AppId and AppOwnerOrganizationId to a human-readable AppDisplayName for use in KQL.
 
 
 ## Tools
-
-**[`^        back to top        ^`](#awesome-sentinel)**
 
 - [AZSentinel](https://github.com/wortell/AZSentinel) - Powershell module for interacting with Sentinel.
 
