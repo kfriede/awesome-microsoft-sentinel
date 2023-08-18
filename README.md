@@ -1,6 +1,4 @@
-# Awesome Sentinel
-
-[![Awesome](_static/awesome.png)](https://github.com/sindresorhus/awesome)
+# Awesome Sentinel [![Awesome](_static/awesome.png)](https://github.com/sindresorhus/awesome)
 
 A Cloud-Native SIEM and SOAR service
 
