@@ -14,6 +14,7 @@ A list of free resources related to Microsoft Azure Sentinel. Azure Sentinel is 
 - [Queries](#queries)
 - [Workbooks](#workbooks)
 - [Playbooks](#playbooks)
+- [Miscellaneous](#miscellaneous)
 - [Tools](#tools)
 
 --------------------
@@ -61,6 +62,14 @@ A list of free resources related to Microsoft Azure Sentinel. Azure Sentinel is 
 **[`^        back to top        ^`](#awesome-sentinel)**
 
 - [rod-trent/SentinelPlaybooks](https://github.com/rod-trent/SentinelPlaybooks) - A collection of Sentinel playbooks
+  
+
+## Miscellaneous
+
+**[`^        back to top        ^`](#awesome-sentinel)**
+
+- [Microsoft First Party App Names](https://github.com/merill/microsoft-info) - A JSON/CSV collection of mappings of AppId and AppOwnerOrganizationId to a human-readable AppDisplayName for use in KQL
+
 
 ## Tools
 
