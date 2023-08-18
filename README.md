@@ -2,7 +2,7 @@
 
 Azure Sentinel is a cloud-native security information and event management (SIEM) solution provided by Microsoft, designed to detect, investigate, and respond to cybersecurity threats across the entire enterprise. This is a list of awesome free resources related to Microsoft Azure Sentinel. 
 
---------------------
+---
 
 
 ## Contents
@@ -15,7 +15,7 @@ Azure Sentinel is a cloud-native security information and event management (SIEM
 - [Miscellaneous](#miscellaneous)
 - [Tools](#tools)
 
---------------------
+---
 
 ## Learning
 
