@@ -7,7 +7,7 @@ A list of free resources related to Microsoft Azure Sentinel. Azure Sentinel is 
 --------------------
 
 
-## Table of contents
+## Contents
 
 - [Learning](#learning)
 - [News](#news)
