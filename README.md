@@ -27,6 +27,8 @@ Microsoft Sentinel is a cloud-native security information and event management (
 
 - [Microsoft Sentinel Notebook Ninja](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/becoming-a-microsoft-sentinel-notebooks-ninja-the-series/ba-p/2693491) - Learning series on using Sentinel Notebooks.
 
+- [KQL Cheat by Fourtytwo](https://kqlcheat.byfortytwo.com/) - Interactive, searchable KQL cheat sheet
+
 ## News
 
 - [Rod Trent's Substack](https://rodtrent.substack.com/t/microsoft-sentinel) - Blog posts written by Rod Trent filtered to Microsoft Sentinel.
@@ -42,6 +44,14 @@ Microsoft Sentinel is a cloud-native security information and event management (
 - [rod-trent/OpenAISecurity](https://github.com/rod-trent/OpenAISecurity/tree/main/Security/Sentinel/KQL) - Queries related to OpenAI/ChatGPT.
 
 - [Bert-JanP/Hunting-Queries-Detection-Rules](https://github.com/Bert-JanP/Hunting-Queries-Detection-Rules) - KQL queries covering detections across all Microsoft Defender security products.
+
+- [reprise99/kql-for-dfir](https://github.com/reprise99/kql-for-dfir) - Collection of KQL queries related to digital forensics and response
+
+- [reprise99/Sentinel-Queries](https://github.com/reprise99/Sentinel-Queries) - Various KQL queries for any task
+
+- [cyb3rmik3/KQL-threat-hunting-queries](https://github.com/cyb3rmik3/KQL-threat-hunting-queries) - Threat hunting, detection, and SecOps queries
+
+- [LearningKijo/KQL](https://github.com/LearningKijo/KQL/tree/main/KQL-XDR-Hunting) - Queries for Email, Endpoint, Entra ID (AAD), and Threat Hunting
 
 ## Workbooks
 
